@@ -1,0 +1,14 @@
+C:\Users\Agri Technika\source\repos\Matrix_Calculator dSpace\obj\Debug\Matrix_Calculator dSpace.csprojAssemblyReference.cache
+C:\Users\Agri Technika\source\repos\Matrix_Calculator dSpace\obj\Debug\Matrix_Calculator_dSpace.Properties.Resources.resources
+C:\Users\Agri Technika\source\repos\Matrix_Calculator dSpace\obj\Debug\Matrix_Calculator dSpace.csproj.GenerateResource.cache
+C:\Users\Agri Technika\source\repos\Matrix_Calculator dSpace\obj\Debug\Matrix_Calculator dSpace.csproj.CoreCompileInputs.cache
+C:\Users\Agri Technika\source\repos\Matrix_Calculator dSpace\bin\Debug\Matrix_Calculator dSpace.exe.config
+C:\Users\Agri Technika\source\repos\Matrix_Calculator dSpace\bin\Debug\Matrix_Calculator dSpace.exe
+C:\Users\Agri Technika\source\repos\Matrix_Calculator dSpace\bin\Debug\Matrix_Calculator dSpace.pdb
+C:\Users\Agri Technika\source\repos\Matrix_Calculator dSpace\obj\Debug\Matrix_Calculator dSpace.exe
+C:\Users\Agri Technika\source\repos\Matrix_Calculator dSpace\obj\Debug\Matrix_Calculator dSpace.pdb
+C:\Users\Agri Technika\source\repos\Matrix_Calculator dSpace\obj\Debug\Matrix_Calculator.UI.resources
+C:\Users\Agri Technika\source\repos\Matrix_Calculator dSpace\bin\Debug\AbstractRing.dll
+C:\Users\Agri Technika\source\repos\Matrix_Calculator dSpace\bin\Debug\AbstractRing.pdb
+C:\Users\Agri Technika\source\repos\Matrix_Calculator dSpace\bin\Debug\AbstractRing.dll.config
+C:\Users\Agri Technika\source\repos\Matrix_Calculator dSpace\obj\Debug\Matrix_Calculator dSpace.csproj.CopyComplete

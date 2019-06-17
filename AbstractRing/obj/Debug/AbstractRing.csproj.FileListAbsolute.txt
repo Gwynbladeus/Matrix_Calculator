@@ -1,0 +1,7 @@
+C:\Users\Agri Technika\source\repos\AbstractRing\obj\Debug\AbstractRing.csproj.CoreCompileInputs.cache
+C:\Users\Agri Technika\source\repos\AbstractRing\bin\Debug\AbstractRing.dll.config
+C:\Users\Agri Technika\source\repos\AbstractRing\bin\Debug\AbstractRing.dll
+C:\Users\Agri Technika\source\repos\AbstractRing\bin\Debug\AbstractRing.pdb
+C:\Users\Agri Technika\source\repos\AbstractRing\obj\Debug\AbstractRing.csprojAssemblyReference.cache
+C:\Users\Agri Technika\source\repos\AbstractRing\obj\Debug\AbstractRing.dll
+C:\Users\Agri Technika\source\repos\AbstractRing\obj\Debug\AbstractRing.pdb

@@ -1,0 +1,10 @@
+C:\Users\Agri Technika\source\repos\MyMatrixTypes\bin\Debug\MyMatrixTypes.dll
+C:\Users\Agri Technika\source\repos\MyMatrixTypes\bin\Debug\MyMatrixTypes.pdb
+C:\Users\Agri Technika\source\repos\MyMatrixTypes\obj\Debug\MyMatrixTypes.csprojAssemblyReference.cache
+C:\Users\Agri Technika\source\repos\MyMatrixTypes\obj\Debug\MyMatrixTypes.csproj.CoreCompileInputs.cache
+C:\Users\Agri Technika\source\repos\MyMatrixTypes\obj\Debug\MyMatrixTypes.dll
+C:\Users\Agri Technika\source\repos\MyMatrixTypes\obj\Debug\MyMatrixTypes.pdb
+C:\Users\Agri Technika\source\repos\MyMatrixTypes\bin\Debug\AbstractRing.dll
+C:\Users\Agri Technika\source\repos\MyMatrixTypes\bin\Debug\AbstractRing.pdb
+C:\Users\Agri Technika\source\repos\MyMatrixTypes\bin\Debug\AbstractRing.dll.config
+C:\Users\Agri Technika\source\repos\MyMatrixTypes\obj\Debug\MyMatrixTypes.csproj.CopyComplete
